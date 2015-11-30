@@ -27,4 +27,7 @@
 *.out
 *.app
 # Inside SPOJ folder
-./SPOJ/*.o
+SPOJ/*.o
+SPOJ/*exe
+SPOJ/*o
+SPOJ/*bat
